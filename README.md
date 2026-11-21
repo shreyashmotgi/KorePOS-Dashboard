@@ -2,7 +2,7 @@
 
 A responsive **Dashboard Overview** screen for an internal admin team to monitor merchants and payment activity. Built as part of the KorePOS UI/UX & React Developer Intern assessment.
 
-- **Live demo:**https://korepos-dashboard.vercel.app/
+- **Live demo:** https://korepos-dashboard.vercel.app/
 - **Figma design:** https://www.figma.com/design/g4WZEkCNrN8lj6rXhY61a7/Merchant-Management-Dashboard?node-id=0-1&t=uK8LAXzwVjLIJ2Xd-1
 
 ## Features
@@ -76,7 +76,3 @@ All merchant names, transactions and figures are fictional sample data.
 
 - MUI is used as the component library. The visual design is custom, based on the Figma file.
 - AI tools were used to assist development and code review.
-
-- Merchant Details page
-- Loading, empty and error states
-- Connect to a real API
